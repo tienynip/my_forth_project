@@ -1,0 +1,8 @@
+
+# Day la comment ko co tac dung ignore file va folder
+# alo - alo/ --> git không theo dõi thư mục alo
+alo 
+
+# Chúng ta sẽ bỏ qua các file có đuôi .log
+*.log
+*.env
